@@ -1,16 +1,19 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "solutions": [
+    {"id": 1, "word": "ninja"},
+    {"id": 2, "word": "spade"},
+    {"id": 3, "word": "blank"},
+    {"id": 4, "word": "drive"},
+    {"id": 5, "word": "relax"},
+    {"id": 6, "word": "fluff"},
+    {"id": 7, "word": "train"},
+    {"id": 8, "word": "cores"},
+    {"id": 9, "word": "grain"},
+    {"id": 10, "word": "blame"},
+    {"id": 11, "word": "table"},
+    {"id": 12, "word": "phone"},
+    {"id": 13, "word": "bling"},
+    {"id": 14, "word": "skirt"},
+    {"id": 15, "word": "voice"}
   ]
 }
